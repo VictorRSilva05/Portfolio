@@ -58,6 +58,12 @@ body{
     box-shadow: var(--secao-box-shadow);
 }
 
+#portfolio{
+    background: var(--secao-bg-color);
+    box-shadow: var(--secao-box-shadow);
+}
+
+
 #contato{
     background: var(--secao-bg-color);
     box-shadow: var(--secao-box-shadow);
